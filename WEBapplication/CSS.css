@@ -1,0 +1,52 @@
+body 
+{ 
+    background-color: #b0b8bd; 
+    font-family: Arial, sans-serif; 
+    overflow-y: scroll;
+    scrollbar-width: thin;
+
+  }
+header
+{
+    color: #352626;
+    background-color: rgb(110, 160, 36);
+    background-size: contain;
+    background-position: 5cm;
+    outline: #352626;
+    padding: 0.25cm;
+    text-align: left;
+    text-shadow: 2px 1px 2px rgba(71, 230, 43, 0.785);
+    box-shadow: 0 4px 8px rgb(26, 121, 11)
+    
+}
+
+h2
+{
+    text-align: left;
+    position: relative;
+    width: 100%; 
+    height: 45px; 
+    background-color: #3498db; 
+    background-size: contain;
+    background-position: 0cm;
+    text-align: center;
+    box-shadow: 0 4px 8px rgb(11, 181, 200)
+}
+
+main
+{
+    min-height: calc(100vh - 211px - 58px );
+}
+
+
+
+footer
+{
+    width: 100%;
+    background-color: rgb(110, 160, 36);
+    background-size: contain;
+    background-position: 10cm;
+    vertical-align: bottom;
+    margin-top: auto;
+}
+
