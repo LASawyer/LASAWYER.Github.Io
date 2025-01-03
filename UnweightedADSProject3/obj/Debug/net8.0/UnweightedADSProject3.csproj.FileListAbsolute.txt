@@ -1,0 +1,14 @@
+C:\Users\lewis\Downloads\Coding\2024\UnweightedADSProject3\bin\Debug\net8.0\UnweightedADSProject3.exe
+C:\Users\lewis\Downloads\Coding\2024\UnweightedADSProject3\bin\Debug\net8.0\UnweightedADSProject3.deps.json
+C:\Users\lewis\Downloads\Coding\2024\UnweightedADSProject3\bin\Debug\net8.0\UnweightedADSProject3.runtimeconfig.json
+C:\Users\lewis\Downloads\Coding\2024\UnweightedADSProject3\bin\Debug\net8.0\UnweightedADSProject3.dll
+C:\Users\lewis\Downloads\Coding\2024\UnweightedADSProject3\bin\Debug\net8.0\UnweightedADSProject3.pdb
+C:\Users\lewis\Downloads\Coding\2024\UnweightedADSProject3\obj\Debug\net8.0\UnweightedADSProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis\Downloads\Coding\2024\UnweightedADSProject3\obj\Debug\net8.0\UnweightedADSProject3.AssemblyInfoInputs.cache
+C:\Users\lewis\Downloads\Coding\2024\UnweightedADSProject3\obj\Debug\net8.0\UnweightedADSProject3.AssemblyInfo.cs
+C:\Users\lewis\Downloads\Coding\2024\UnweightedADSProject3\obj\Debug\net8.0\UnweightedADSProject3.csproj.CoreCompileInputs.cache
+C:\Users\lewis\Downloads\Coding\2024\UnweightedADSProject3\obj\Debug\net8.0\UnweightedADSProject3.dll
+C:\Users\lewis\Downloads\Coding\2024\UnweightedADSProject3\obj\Debug\net8.0\refint\UnweightedADSProject3.dll
+C:\Users\lewis\Downloads\Coding\2024\UnweightedADSProject3\obj\Debug\net8.0\UnweightedADSProject3.pdb
+C:\Users\lewis\Downloads\Coding\2024\UnweightedADSProject3\obj\Debug\net8.0\UnweightedADSProject3.genruntimeconfig.cache
+C:\Users\lewis\Downloads\Coding\2024\UnweightedADSProject3\obj\Debug\net8.0\ref\UnweightedADSProject3.dll
